@@ -1,1 +1,37 @@
-sqUfPVuQp9brU8D+XvZ8zLsFgk7Q20k8cmmGb/i+gzuFKeC0iId5iAcyo5NdLBiL1jlfxqo6uj+BQxzq19WNr/Z7GrCLjBGtEmRPQcbdLsfXXs8bDe83BiTJ7VGojoXE36Yt9TrRwRCOoVYMsk0IDQRO9Cr3gX0N6tqjuyWRkn2TBEWPKETA1SBeQfimGaVJ0xh3cwenDc3s0eBVczEUiQcNHXd6bOqJyCBEJlP8tZYDoVFHJHBX+YkWfKxvLdohormF+U3nm9E+vcLJUmm3vixlhhOO5R2itok9Mjxrj7ggRtdVpldkEcwitxb8j1ouWXDG5Ug5N//scdBPkKjhKDlQh8/Qo5O3KfSfEloySrFTgDk1lC7jaRwGHa9L6UdLqMLNbW5zZ4eJl1PFfl9WSgAzTcchqre8bOi0obInvKUZI7Qv/opRKnQrv6QlmpuOJ1Z+AII0bHT8ybGM2UPoJBAB6ashaRi6eBIhaxu4zlolF0bnZm6cDXmpS8KFMX2CBHEQo0Ba661CTIg4pd2sYk3t1D3YmFPeCwJ+tbzjLYHcfVqIYAe3O0AJbfut1rc7mAYECsQUyBJHHZhr1iQb+Esyx3wPCZzapcdnPz5GJrFPBD708Unt9Nfu9IyCURHrZCAYoB24e1cVOfx+5Rjdb4i5d4Ycdo8VhGpZxGioN56tUP9b5UMDuRoozn19kuQOJzhAcMuG7AjP4T60akdl6Y7pmI9zCwBDtWhzNlN4cmM=
+{
+  "Version": "1.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível",
+  "UrlUpdate": "https://raw.githubusercontent.com/juliorlando120/cliente-1/main/Server%201",
+  "EmailFeedback": "",
+  "UrlContato": "",
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "CheckUser": "true",
+  "Udp": [
+    {
+      "Porta": "7300"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "SERVIDOR PY",
+      "TYPE": "premium",
+      "FLAG": "py.png",
+      "ServerIP": "52.85.213.227",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "TIGO PY [SSL 1]",
+      "FLAG": "ic_tim.png",
+      "GET / HTTP/1.1[crlf]Host: d107x2o9eiuuxg.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "52.85.213.227",
+      "TlsIP": "52.85.213.227",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    }
