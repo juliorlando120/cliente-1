@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/juliorlando120/cliente-1/main/Server%201",
   "EmailFeedback": "",
@@ -35,3 +35,5 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     }
+  ]
+}
